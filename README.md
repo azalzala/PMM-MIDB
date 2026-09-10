@@ -5,5 +5,5 @@ Content
  - Raw data used for running the models, and building the figures.
  - Code for making the binary plasmid isolates gene presence/absence dataframe across gene families with 100 isolates or more.
  - Code for running the model
- - Code for making the figures
+ - Code for making the figures (Tree, Bar charts, Heatmap) 
 
